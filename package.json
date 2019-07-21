@@ -1,11 +1,17 @@
 {
-  "name": "saypr-test",
+  "name": "redux-saga-reselect-chartjs-example",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "chart.js": "^2.8.0",
     "react": "^16.8.6",
+    "react-chartjs-2": "^2.7.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-redux": "^7.1.0",
+    "react-scripts": "3.0.1",
+    "redux": "^4.0.4",
+    "redux-saga": "^1.0.5",
+    "reselect": "^4.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -27,5 +33,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "redux-devtools": "^3.5.0"
   }
 }
