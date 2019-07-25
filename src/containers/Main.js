@@ -34,6 +34,8 @@ function Main(props) {
         data={props.graphReducer.data}
         maxValue={maxValueSelector(props.graphReducer)}
       />
+      <h2>Data</h2>
+      <code>{JSON.stringify(props.graphReducer.data)}</code>
     </div>
   );
 }
