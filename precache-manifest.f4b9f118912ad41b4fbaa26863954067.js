@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1ffbab369ec1ef3f70a6afdf7c80240e",
+    "revision": "b6f1b7b848486fcef14661c61773c490",
     "url": "/react-custom-line-chart/index.html"
   },
   {
-    "revision": "25f6aff06d34413d9be9",
+    "revision": "afb15e25d76d219567f7",
     "url": "/react-custom-line-chart/static/css/main.34de6062.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-custom-line-chart/static/js/2.a23665cc.chunk.js"
   },
   {
-    "revision": "25f6aff06d34413d9be9",
-    "url": "/react-custom-line-chart/static/js/main.6e9477cf.chunk.js"
+    "revision": "afb15e25d76d219567f7",
+    "url": "/react-custom-line-chart/static/js/main.58ae6caa.chunk.js"
   },
   {
     "revision": "f86158215f0bb831e6fc",
