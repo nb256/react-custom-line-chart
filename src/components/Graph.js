@@ -99,7 +99,7 @@ function prepareOptions({ maxY, average }) {
         left: 10,
         right: 15,
         top: 10,
-        bottom: -45
+        bottom: -60
       }
     },
     annotation: {
@@ -112,12 +112,13 @@ function prepareOptions({ maxY, average }) {
           mode: "vertical",
           scaleID: "x-axis-1",
           value: average,
-          borderColor: "rgb(130,134,137)",
+          borderColor: "rgb(89,85,89)",
           borderWidth: 3,
           label: {
             position: "top",
             content: "Facebook Average | " + average,
-            enabled: false
+            enabled: false,
+            fontSize: 9
           },
           onMouseenter: function(e) {
             console.log("enter Annotation");
@@ -241,7 +242,7 @@ class LineChartExample extends React.Component {
           style={{
             position: "absolute",
             transform: "rotate(-90deg)",
-            top: "45%",
+            top: "46%",
             left: "5px",
             fontFamily: "sans-serif",
             fontSize: "0.6em",
