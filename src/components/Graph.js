@@ -5,19 +5,19 @@ import "chartjs-plugin-annotation";
 
 function prepareData(data) {
   return {
-    labels: ["", "", "", "", "", "", "", "", "", ""],
+    labels: ["", "", "", "", "", "", "", "", "", "", ""],
     datasets: [
       {
         label: "Female",
         backgroundColor: "rgba(124,210,207,0.93)",
         borderColor: "rgba(124,210,207,0.93)",
-        data: data.female
+        data: [0, ...data.female]
       },
       {
         label: "Male",
         backgroundColor: "rgba(120,164,227,0.93)",
         borderColor: "rgba(120,164,227,0.93)",
-        data: data.male
+        data: [0, ...data.male]
       }
     ]
   };
