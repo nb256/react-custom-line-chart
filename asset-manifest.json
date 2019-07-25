@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-custom-line-chart/static/css/main.34de6062.chunk.css",
+    "main.js": "/react-custom-line-chart/static/js/main.6e9477cf.chunk.js",
+    "main.js.map": "/react-custom-line-chart/static/js/main.6e9477cf.chunk.js.map",
+    "runtime~main.js": "/react-custom-line-chart/static/js/runtime~main.ce53c64c.js",
+    "runtime~main.js.map": "/react-custom-line-chart/static/js/runtime~main.ce53c64c.js.map",
+    "static/js/2.a23665cc.chunk.js": "/react-custom-line-chart/static/js/2.a23665cc.chunk.js",
+    "static/js/2.a23665cc.chunk.js.map": "/react-custom-line-chart/static/js/2.a23665cc.chunk.js.map",
+    "index.html": "/react-custom-line-chart/index.html",
+    "precache-manifest.3acec7d0706c1faeed574c959b02e73c.js": "/react-custom-line-chart/precache-manifest.3acec7d0706c1faeed574c959b02e73c.js",
+    "service-worker.js": "/react-custom-line-chart/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/react-custom-line-chart/static/css/main.34de6062.chunk.css.map",
+    "static/media/loading.svg": "/react-custom-line-chart/static/media/loading.b4c7c196.svg"
+  }
+}
